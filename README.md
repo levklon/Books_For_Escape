@@ -2,9 +2,7 @@
 
 # Curated List of Programming, Hacking, and Cybersecurity Books
 
-## Read if you want to be average junior
-
-This repository contains a list of curated books that are essential for developers, hackers, and cybersecurity professionals, categorized by their topics.
+## This repository contains a list of curated books that are essential for developers, hackers, and cybersecurity professionals, categorized by their topics.
 
 | Book Title                                                                                         | Brief Description                                                                                  | Category                 |
 |----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------|
