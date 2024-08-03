@@ -1,4 +1,4 @@
-Read if you wanna be average junior
+# Read if you wanna be average junior
 
 # Curated List of Programming, Hacking, and Cybersecurity Books
 
