@@ -1,4 +1,4 @@
-# Curated List of Programming, Hacking, and Cybersecurity Books
+# List of Programming, Hacking, and Cybersecurity Books
 
 ## Wisdom begins in wonder.
 
