@@ -2,7 +2,7 @@
 
 ## Wisdom begins in wonder.
 
-This repository contains a list of curated books that are essential for developers, hackers, and cybersecurity professionals, categorized by their topics.
+This repository contains a list of curated books that are essential for developers, hackers, and cybersecurity professionals, categorized by topics.
 
 | Book Title                                                                                         | Brief Description                                                                                  | Category                 |
 |----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------|
