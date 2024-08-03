@@ -1,8 +1,6 @@
 # List of Programming, Hacking, and Cybersecurity Books
 
-## Wisdom begins in wonder.
-
-### This repository contains a list of curated books that are essential for developers, hackers, and cybersecurity professionals, categorized by topics.
+### This repository contains a list of curated books that are essential for developers, hackers, and cybersecurity professionals, categorized by topics.  Wisdom begins in wonder.
 
 | Book Title                                                                                         | Brief Description                                                                                  | Category                 |
 |----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------|
