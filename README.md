@@ -1,8 +1,6 @@
-
-
 # Curated List of Programming, Hacking, and Cybersecurity Books
 
-## This repository contains a list of curated books that are essential for developers, hackers, and cybersecurity professionals, categorized by their topics.
+This repository contains a list of curated books that are essential for developers, hackers, and cybersecurity professionals, categorized by their topics.
 
 | Book Title                                                                                         | Brief Description                                                                                  | Category                 |
 |----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------|
@@ -56,4 +54,13 @@
 | The Car Hacker's Handbook: A Guide for the Penetration Tester                                      | A guide to hacking and securing automotive systems.                                                | Hacking                  |
 | Web Hacking 101: How to Hack Legally and Earn Thousands of Dollars in Bug Bounties                 | A beginner's guide to web hacking and participating in bug bounty programs.                        | Hacking                  |
 | The Cybersecurity Playbook: How Every Leader and Employee Can Contribute to a Culture of Security  | A guide for organizations to build a culture of cybersecurity.                                     | Security                 |
+| Python Crash Course                                                                                | A hands-on, project-based introduction to programming in Python.                                   | Programming              |
+| Fluent Python                                                                                     | Writing more idiomatic, effective Python code.                                                     | Programming              |
+| Eloquent JavaScript                                                                                | A modern introduction to JavaScript, covering the basics and more advanced concepts.               | Programming              |
+| Head First Design Patterns                                                                         | An engaging introduction to design patterns in object-oriented programming.                        | Design Patterns          |
+| Python for Data Analysis                                                                           | A practical guide to using Python for data analysis and visualization.                             | Data Analysis            |
+| C Programming Language                                                                             | The definitive guide to learning C programming, co-authored by the creator of the language.        | Programming              |
+| JavaScript: The Good Parts                                                                         | A concise guide to the best parts of JavaScript.                                                   | Programming              |
+| Deep Learning with Python                                                                          | A hands-on guide to deep learning with Python and the Keras library.                               | Machine Learning         |
+| The Pragmatic Programmer: From Journeyman to Master                                                | Timeless advice for becoming a better, more effective programmer.                                  | Programming              |
 
