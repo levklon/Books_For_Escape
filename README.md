@@ -1,5 +1,4 @@
-# Books_For_Escape
-
+Read if you wanna be average junior
 
 # Curated List of Programming Books
 
